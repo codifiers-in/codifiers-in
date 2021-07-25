@@ -15,19 +15,19 @@
 ### Connect with us here:
 
 <a href="https://www.linkedin.com/company/codifiers">
-  <img align="left" alt="Codifiers - LinkedIn" width="22px" src="https://raw.githubusercontent.com/wecodifiers/wecodifiers/main/assets/linkedin.svg" />
+  <img align="left" alt="Codifiers - LinkedIn" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/codifiershq">
-  <img align="left" alt="Codifiers - Twitter" width="22px" src="https://raw.githubusercontent.com/wecodifiers/wecodifiers/main/assets/twitter.svg" />
+  <img align="left" alt="Codifiers - Twitter" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/twitter.svg" />
 </a>
 <a href="https://instagram.com/codifiers_official">
-  <img align="left" alt="Codifiers - Instagram" width="22px" src="https://raw.githubusercontent.com/wecodifiers/wecodifiers/main/assets/instagram.svg" />
+  <img align="left" alt="Codifiers - Instagram" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/codifiersofficial">
-  <img align="left" alt="Codifiers - Facebook" width="22px" src="https://raw.githubusercontent.com/wecodifiers/wecodifiers/main/assets/facebook.svg" />
+  <img align="left" alt="Codifiers - Facebook" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/facebook.svg" />
 </a>
 <a href="https://in.pinterest.com/codifiers_official">
-  <img align="left" alt="Codifiers - Pinterest" width="22px" src="https://raw.githubusercontent.com/wecodifiers/wecodifiers/main/assets/pinterest.svg" />
+  <img align="left" alt="Codifiers - Pinterest" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/pinterest.svg" />
 </a>
 
 <br/>
