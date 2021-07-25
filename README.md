@@ -2,6 +2,8 @@
 
 ### We are a team of aspiring web developers helping you to grow your business.
 
+### Visit our portfolio at: [Codifiers.in](https://codifiers.in)
+
 ### Services we offer:
 - Website development
 - Graphic designing
@@ -9,8 +11,6 @@
 - Content writing
 - Social media handling
 - 3D models and animations
-
-### Visit our portfolio website: [Codifiers's portfolio](https://codifiers.in)
 
 ### Connect with us here:
 
