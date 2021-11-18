@@ -17,16 +17,16 @@
 <a href="https://www.linkedin.com/company/codifiers">
   <img align="left" alt="Codifiers - LinkedIn" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/codifiershq">
+<a href="https://twitter.com/codifiers_in">
   <img align="left" alt="Codifiers - Twitter" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/twitter.svg" />
 </a>
 <a href="https://instagram.com/codifiers_official">
   <img align="left" alt="Codifiers - Instagram" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/codifiersofficial">
+<a href="https://www.facebook.com/codifiers.in">
   <img align="left" alt="Codifiers - Facebook" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/facebook.svg" />
 </a>
-<a href="https://pinterest.com/codifiers_official">
+<a href="https://pinterest.com/codifiers_in">
   <img align="left" alt="Codifiers - Pinterest" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/pinterest.svg" />
 </a>
 
