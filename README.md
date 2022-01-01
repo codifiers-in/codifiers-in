@@ -20,7 +20,7 @@
 <a href="https://twitter.com/codifiers_in">
   <img align="left" alt="Codifiers - Twitter" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/twitter.svg" />
 </a>
-<a href="https://instagram.com/codifiers_official">
+<a href="https://instagram.com/codifiers_in">
   <img align="left" alt="Codifiers - Instagram" width="22px" src="https://raw.githubusercontent.com/codifiers-official/codifiers-official/main/assets/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/codifiers.in">
